@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE etudians SYSTEM "file:///D:/tpMTI/tp2/travielle%20a%20dmcl/tp2.dtd">
+<?xml-stylesheet type="text/xsl" href="file:///D:/tpMTI/tp2/travielle%20a%20dmcl/tp2.xsl"?>
+<etudians>
+<etudiant  >
+<Matricule>"Q14M121"</Matricule>
+<Nom>ZIANE</Nom>
+<Prenom>BILAL</Prenom>
+
+<S1>12.78</S1>
+<S2>12.87</S2>
+<moy_annuel>12.83</moy_annuel>
+
+
+<credit>60</credit>
+
+
+<unit_acuise>oui</unit_acuise>
+</etudiant>
+
+<etudiant  >  
+<Matricule>"Q14M120"</Matricule>
+<Nom>ZITOUNI</Nom>
+<Prenom>SOUMIA</Prenom>
+
+<S1>12.01</S1>
+<S2>13.45</S2>
+<moy_annuel>12.73</moy_annuel>
+
+<credit>60</credit>
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+<etudiant >  
+<Matricule>"Q14M125"</Matricule>
+<Nom>ZEGHDANE</Nom>
+<Prenom>HOUSSAM</Prenom>
+
+<S1>13.63</S1>
+<S2>11.52</S2>
+<moy_annuel>12.58</moy_annuel>
+
+
+<credit>60</credit>
+
+
+<unit_acuise>oui</unit_acuise>
+</etudiant>
+
+<etudiant  >  
+<Matricule>"Q14M122"</Matricule>
+<Nom>ZIANE</Nom>
+<Prenom>MEZIANE</Prenom>
+
+<S1>12.72</S1>
+<S2>11.93</S2>
+<moy_annuel>12.33</moy_annuel>
+
+<credit>60</credit>
+
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+<etudiant >  
+<Matricule>"Q14M152"</Matricule>
+<Nom>TALEB</Nom>
+<Prenom>ASMA</Prenom>
+
+<S1>14.73</S1>
+<S2>9.90</S2>
+<moy_annuel>12.32</moy_annuel>
+
+
+<credit>51</credit>
+
+<unit_acuise>Oui</unit_acuise>
+
+</etudiant>
+
+<etudiant  > *
+<Matricule>"Q14M141"</Matricule>
+<Nom>TOUATI</Nom>
+<Prenom>MOHAMED</Prenom>
+
+<S1>11.99</S1>
+<S2>10.37</S2>
+<moy_annuel>11.18</moy_annuel>
+
+
+<credit>60</credit>
+
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+<etudiant  > 
+<Matricule>"Q14M126"</Matricule>
+<Nom>ZEGADI</Nom>
+<Prenom>AMEL</Prenom>
+
+<S1>11.04</S1>
+<S2>11.25</S2>
+<moy_annuel>11.15</moy_annuel>
+
+
+<credit>60</credit>
+
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+<etudiant >  
+<Matricule>"Q14M123"</Matricule>
+<Nom>ZIANE</Nom>
+<Prenom>AMIRA</Prenom>
+
+<S1>10.15</S1>
+<S2>11.91</S2>
+<moy_annuel>11.03</moy_annuel>
+
+<credit>60</credit>
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+<etudiant  > 
+<Matricule>"Q14M135"</Matricule> 
+<Nom>YAHIAOUI</Nom>
+<Prenom>MOHAMED</Prenom>
+
+<S1>11.32</S1>
+<S2>10.56</S2>
+<moy_annuel>10.94</moy_annuel>
+
+<credit>60</credit>
+
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+ 
+<etudiant  >  
+<Matricule>"Q14M124"</Matricule> 
+<Nom>ZERARI</Nom>
+<Prenom>OUASSILA</Prenom>
+
+<S1>10.20</S1>
+<S2>11.65</S2>
+<moy_annuel>10.93</moy_annuel>
+
+
+<credit>60</credit>
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+ 
+
+<etudiant > 
+<Matricule>"Q14M154" </Matricule> 
+<Nom>TAHTAH</Nom>
+<Prenom>ASMAA</Prenom>
+
+<S1>10.03</S1>
+<S2>9.82</S2>
+<moy_annuel>9.93</moy_annuel>
+
+<credit>46</credit>
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+<etudiant >   
+<Matricule>"Q14M181" </Matricule> 
+<Nom>SALMI</Nom>
+<Prenom>IMAINE</Prenom>
+
+<S1>10.98</S1>
+<S2>8.83</S2>
+<moy_annuel>9.91</moy_annuel>
+
+<credit>49</credit>
+<unit_acuise>oui</unit_acuise>
+
+</etudiant>
+
+
+<etudiant >  
+<Matricule>"Q14M210" </Matricule> 
+<Nom>RAFED</Nom>
+<Prenom>ZINEB</Prenom>
+
+<S1>10.50</S1>
+<S2>8.07</S2>
+<moy_annuel>9.29</moy_annuel>
+
+<credit>36</credit>
+
+<unit_acuise>oui</unit_acuise>
+
+
+</etudiant>
+
+<etudiant >
+<Matricule>"Q14M204" </Matricule> 
+<Nom>REBHI</Nom>
+<Prenom>NOUHA</Prenom>
+
+<S1>8.29</S1>
+<S2>8.15</S2>
+<moy_annuel>8.22</moy_annuel>
+
+<credit>50</credit>
+
+<unit_acuise>non</unit_acuise>
+
+</etudiant>
+</etudians>
